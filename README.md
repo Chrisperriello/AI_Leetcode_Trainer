@@ -1,7 +1,5 @@
-# Tauri + SvelteKit + TypeScript
+# St. Lawrence University Coding Trainer
 
-This template should help get you started developing with Tauri, SvelteKit and TypeScript in Vite.
+This is a full stack App devlelopment project created by Chris Perriello, Joe Davis, MJ Chao, and Seamus Burke for St. Lawrence University's Coding Club. The purpose of this project is to help students learn and practice coding skills through interactive exercises and challenges. Another purpose of the project is to provide a proof of concept for future club projects. This allows us to show that students can create full stack applications with proper guidance and resources.
 
-## Recommended IDE Setup
-
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+## Statck Used in this project
