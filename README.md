@@ -151,4 +151,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 - The open-source communities behind Tauri, Svelte, and Rust
 
 
-![Company Logo](./static/St._Lawrence_University.png)
+!(./statics/St._Lawrence_University.png)
